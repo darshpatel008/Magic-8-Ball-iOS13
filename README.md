@@ -1,4 +1,4 @@
-#* Magic 8-Ball* 🎱
+# *Magic 8-Ball* 🎱
 The Magic 8-Ball app is a playful iOS app inspired by the classic fortune-telling toy. Users ask a question, shake their device, and receive a random answer, providing a fun and interactive experience.
 
 # *Features*
